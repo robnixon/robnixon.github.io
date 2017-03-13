@@ -1,7 +1,20 @@
-.navigation link {
-    font-size: 12px;
-    font-family: sans-serif;
+nav {
+    padding: 5px;
 }
+
+.navigation-link {
+    font-size: 16px;
+    font-family: sans-serif;
+    color: dimgray;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.navigation-link:hover {
+    background-color: lightgrey;
+}
+
 h1 {
     font-family: sans-serif;
 }
