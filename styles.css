@@ -29,7 +29,7 @@ nav {
     background-color: lightgrey;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, p {
     font-family: sans-serif;
     padding: 2px;
 }
@@ -37,4 +37,13 @@ h1, h2, h3, h4, h5, h6 {
 footer {
     background-color: #eaedf2;
     border-radius: 5px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around
+}
+
+.footer-content-container {
+   margin: 10px;
+   padding: 20px;
+   display: table-cell;
 }
