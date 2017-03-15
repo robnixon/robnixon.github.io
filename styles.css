@@ -18,7 +18,7 @@ body {
 .main-content {
     flex: 1;
     grid-area: content;
-    padding: 10px;
+    padding-bottom: 10px;
 }
 
 header {
@@ -36,6 +36,11 @@ nav {
 
 .nav-list-item {
     padding: 10px;
+}
+
+hr {
+    height: 0px;
+    max-height: 0px;
 }
 
 .navigation-link {
@@ -115,6 +120,7 @@ h3.project-heading {
 footer {
     background-color: #eaedf2;
     border-radius: 5px;
+    padding-top: 10px;
     grid-area: footer;
     display: flex;
     flex-flow: row wrap;
