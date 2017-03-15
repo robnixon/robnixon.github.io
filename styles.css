@@ -18,6 +18,7 @@ body {
 .main-content {
     flex: 1;
     grid-area: content;
+    padding: 10px;
 }
 
 header {
@@ -66,6 +67,26 @@ li {
 
 .content-heading {
     padding: 5px;
+}
+
+.tech-skills {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.skills {
+    display: table-cell;
+}
+
+.project-container {
+    background-color: #eaedf2;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+h3.project-heading {
+    padding: 0px;
 }
 
 footer {
