@@ -84,6 +84,16 @@ li {
     display: table-cell;
 }
 
+.education {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.qualifications {
+    display: table-cell;
+}
+
 .project-container {
     background-color: #eaedf2;
     padding: 10px;
