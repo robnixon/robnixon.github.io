@@ -5,6 +5,8 @@ html, body {
   padding: 0;
 }
 
+/* If the browser supports CSS Grid */
+
 @supports (display: grid){
     body {
         display: grid;
@@ -37,6 +39,47 @@ html, body {
         padding: 5px;
         grid-area: nav;
     }
+}
+
+/* If the browser window is small */
+
+@media only and (max-device-width: 480px){
+    .hamburger-menu {
+        display: inline-block;
+        cursor: pointer;
+    }
+
+    .burger-bar-1, .burger-bar-2, .burger-bar-3 {
+        width: 35px;
+        height: 5px;
+        background-color: #333;
+        margin: 6px 0;
+        transition: 0.4s;
+    }
+
+    .change-burger .burger-bar-1 {
+        -webkit-transform: rotate(-45deg) translate(-9px, 6px) ;
+        transform: rotate(-45deg) translate(-9px, 6px) ;
+    }
+
+    .change-burger .burger-bar-2 {
+        opacity: 0;
+    }
+
+    .change-burger .burger-bar-3 {
+        -webkit-transform: rotate(45deg) translate(-8px, -8px) ;
+        transform: rotate(45deg) translate(-8px, -8px) ;
+    }
+
+    
+}
+
+/* Hide the burger menu if the user is on a desktop 
+   Might want to change this in future
+*/
+
+.hamburger-menu {
+    display: none;
 }
 
 .nav-list {
