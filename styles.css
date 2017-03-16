@@ -62,7 +62,7 @@ a:hover {
     text-decoration: underline;
 }
 
-.navigation-link {
+.button-link:link {
     font-size: 16px;
     font-family: "Roboto", sans-serif;
     color: dimgray;
@@ -71,8 +71,9 @@ a:hover {
     border-radius: 5px;
 }
 
-.navigation-link:hover {
+.button-link:hover {
     background-color: lightgrey;
+    text-decoration: none;
 }
 
 h1, h2, h3, h4, h5, h6, p {
@@ -131,19 +132,6 @@ h3.content-heading {
 
 .content-link-container{
     display: table-cell;
-}
-
-.content-link{
-    font-size: 16px;
-    font-family: "Roboto", sans-serif;
-    color: dimgray;
-    text-decoration: none;
-    padding: 10px;
-    border-radius: 5px;
-}
-
-.content-link:hover{
-    background-color: lightgrey;
 }
 
 footer {
