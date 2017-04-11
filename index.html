@@ -1,19 +1,79 @@
 <html>
     <head>
         <title>Robert Nixon</title>
+
+        
         
         <!-- Add Google Roboto font -->
         <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
 
         <!-- Link main stylesheet -->
-        <link href="styles.css" rel="stylesheet" title="Main Stylesheet">
-
+        <link href="css/style_large.css" rel="stylesheet" type="text/css">
+        <link href="css/style_768.css" rel="stylesheet" type="text/css" media="only screen and (min-width:768px) and (max-width:1200px)">
+        <link href="css/style_600.css" rel="stylesheet" type="text/css" media="only screen and (min-width:600px) and (max-width:767px)">
+        <link href="css/style_300.css" rel="stylesheet" type="text/css" media="only screen and (min-width:300px) and (max-width:599px)"> 
         <!-- Github follow button script -->
         <script async defer src="https://buttons.github.io/buttons.js"></script>
+        
+        <script src="function.js"></script>
     </head>
     <body>
+        <div class="wrapper">
+            <aside>
+                <ul class="sb-icon-list">
+                    <li class="sb-item first-sb">
+                        <span class="list-span">Home</span>
+                    </li>
+                    <li class="sb-item second-sb">
+                        <span class="list-span">Projects</span>
+                    </li>
+                    <li class="sb-item third-sb">
+                        <span class="list-span">Politics</span>
+                    </li>
+                    <li class="sb-item fourth-sb">
+                        <span class="list-span">Contact</span>
+                    </li>
+                </ul>
 
-        <!-- Heading -->
+                <div id="social">
+                    <span id="social-title">Social</span>
+                    <img class="social-icons" src="images/twitter-ic.png">
+                    <img class="social-icons" src="images/github-ic.png">
+                </div>
+            </aside>
+
+            <main>
+                <img src="images/desk.png" id="main-desk">
+                
+                <div class="experience-block">
+                    <div class="experience first-experience">
+                        <img src="images/nogp.png">
+                        <div class="experience-title">North Oxfordshire Green Party - Vice Chair and Website Developer</div>
+                        <div class="experience-excerpt">
+                            Text about NOGP
+                        </div>
+                    </div>
+
+                    <div class="experience second-experience">
+                        <img src="images/.png">
+                        <div class="experience-title">Some other experience</div>
+                        <div class="experience-excerpt">
+                            Text about some other experience
+                        </div>
+                    </div>
+
+                    <div class="experience third-experience">
+                        <img src="images/.png">
+                        <div class="experience-title">Some other experience</div>
+                        <div class="experience-excerpt">
+                            Text about some other experience
+                        </div>
+                    </div>
+                </div> 
+            </main>
+        </div> <!-- END OF WRAPPER -->
+
+        <!--
         <header>
             <center>
                 <h1>Robert Nixon</h1>
@@ -21,13 +81,8 @@
             </center>
         </header>
 
-        <!-- Navigation -->
         <nav>
-            <div class="hamburger-menu">
-                <div class="burger-bar-1"></div>
-                <div class="burger-bar-2"></div>
-                <div class="burger-bar-3"></div>
-            </div>
+            <a id="menu" href="#"><span></span></a>
             <ul class="nav-list">
                 <li class="nav-list-item"><a class="button-link" href="index.html">Home</a></li>
                 <li class="nav-list-item"><a class="button-link" href="projects.html">Projects</a></li>
@@ -36,7 +91,6 @@
             </ul>
         </nav>
 
-        <!-- Main Content -->
         <main class="main-content">
             <h2>About</h2>
             <p></p>
@@ -51,7 +105,6 @@
                 <h3 class="content-heading"><a href="https://www.develop1.net">Develop 1 Limited</a> - Bicester</h3>
                 <h6 class="content-heading">July 2016</h6>
             </div>
-            <!-- Technical Skills -->
             <h2>Technical Skills</h2>
             <div class="tech-skills">
                 <div class="skills">
@@ -126,7 +179,6 @@
 
         </main>
 
-        <!-- Footer -->
         <footer class="footer-container">
             <div class=".footer-content-container">
                 <p>Follow on Github</p>
@@ -137,5 +189,6 @@
                 <a href="https://twitter.com/robertnixongp" class="twitter-follow-button" data-show-count="false">Follow @robertnixongp</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
         </footer>
+        -->
     </body>
 </html>

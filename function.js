@@ -1,3 +1,4 @@
-function toggleBurger(){
-    x.classlist.toggle("change-burger")
-}
+document.querySelector( "#menu" )
+  .addEventListener( "click", function() {
+    this.classList.toggle( "active" );
+  });
