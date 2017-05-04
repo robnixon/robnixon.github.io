@@ -55,19 +55,21 @@ aside {
 }
 
 main {
-   float: right;
+   display: flex;
+   align-content: center;
 }
 
 .experience-block {
-   display: -webkit-flex;
-   display: flex;
-   -webkit-flex-direction: row;
-   flex-direction: row;
+    width: 100%;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    flex-direction: row;
 }
 
 .experience {
     display: inline-block;
-    width: 100%;
+    width: 33%;
     margin-right: 16px;
 }
 
