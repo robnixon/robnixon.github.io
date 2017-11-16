@@ -6,7 +6,7 @@ title: Projects
 
 # Personal Projects
 
-## [Computing Tutor](https://computingtutor.net) - - A website providing free tutorial videos for learning computer science.
+## [Computing Tutor](https://computingtutor.net) - A website providing free tutorial videos for learning computer science.
 
 I started this project in July 2016 as part of my level 3 extended project qualification.
 
@@ -34,4 +34,11 @@ The app is free software made available under the terms of the MIT license. The 
     <a href='https://play.google.com/store/apps/details?id=net.computingtutor.robert.computingtutor&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="250" height="97" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 </center>
 
-## Canvass Master
+## Canvass Master - A mobile application to improve the effectiveness and efficiency of canvassing in first past the post elections.
+
+I developed the first version of Canvass Master for my A Level Computer Science coursework.
+
+I thought of the idea whilst overseeing the canvassing process in the Green Party. Data from the canvassing session would be entered into a spreadsheet after being recorded on canvass sheets and then analysed. I realised that if we had an application canvassers could use on their mobile phones that allowed them to enter the data about each conversation and instantly record it in a database, it would save hours of time spent entering data and free up more time for party members to talk to more voters and carry out other tasks.
+ 
+The version I created for my A-Level Computer Science was not suitable for public release, however I’m looking to develop the app further and to release it in future.
+
