@@ -14,17 +14,11 @@ I joined Develop 1 Limited for a week of work experience after finishing my AS L
 ### April 2015 - Present
 I joined the North Oxfordshire Green Party in April 2015 just before the General Election. Since then I have been elected Co-chair (previously Vice Chairperson) of the branch and have created a new website (current version at nogp.org.uk) for them, adding features as required. 
 
-<br>
-<br>
 
 Possibly the most valuable experience I have gained from being a part of this organisation is the soft skills that I have developed. In my opinion, the current Computer Science curriculum in the UK does little to build vital soft skills, such as working in teams on projects, that are vital to have in the workplaces of today. I believe being part of the North Oxfordshire Green Party and being trusted with a level of responsibility that I had not previously experienced has enhanced my ability to work in teams, deliver work/projects to deadlines and communicate clearly with others.
 
-<br>
-<br>
 
 As part of my role, I’ve also gained experience using CiviCRM for managing our membership records. I have been trusted with access to membership records for Oxfordshire in order to email members with updates and also to manually update membership records when/if required.
 
-<br>
-<br>
 
 [Click here](/politics/) to learn more about my involvement in politics.   
