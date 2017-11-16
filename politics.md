@@ -28,7 +28,6 @@ The current version of the website I manage for North Oxfordshire Green Party ca
 ![Bicester Town 2017 Result](/images/bicestertownelection2017.png)
 
 <br>
-<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLJSZPV8nvInM0TSCFq9gQzoZ4Vcpra9wr" frameborder="0" allowfullscreen></iframe>
 
