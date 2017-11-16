@@ -32,8 +32,12 @@ The current version of the website I manage for North Oxfordshire Green Party ca
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLJSZPV8nvInM0TSCFq9gQzoZ4Vcpra9wr" frameborder="0" allowfullscreen></iframe>
 
+<hr>
+
 ## Elected Co-chair of North Oxfordshire Green Party
 ### November 2017 - Present
+
+<hr>
 
 ## Elected Membership Secretary of North Oxfordshire Green Party
 ### November 2017 - Present 
