@@ -1,5 +1,6 @@
-# Personal Website
+# About
 
-This site acts as a showcase for my personal projects as well as a central point of reference to find information like my contact details, work experience, education and more.
+Hi, I'm Robert Nixon and welcome to my personal website.
+I'm a Computer Science student from Bicester, UK. I enjoy buiding software in my spare time and I'm active in the Green Party of England and Wales.
 
-Built using [sakura](https://oxal.org/projects/sakura/). Check out the project [github page](https://github.com/oxalorg/sakura) and give it a star!
+On my blog, [The Computing Tutor](https://computingtutor.blogspot.co.uk/), you'll find a variety of articles I've written including advice for CS students, opinion pieces and anything technology related that I think others might find interesting. 
