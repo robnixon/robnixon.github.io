@@ -1,5 +1,7 @@
 # About
 
+![Robert Nixon](/images/robertprofile.jpg)
+
 Hi, I'm Robert Nixon and welcome to my personal website.
 I'm a Computer Science student from Bicester, UK. I enjoy buiding software in my spare time and I'm active in the Green Party of England and Wales.
 
