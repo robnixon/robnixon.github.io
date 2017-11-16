@@ -25,7 +25,7 @@ The current version of the website I manage for North Oxfordshire Green Party ca
 ## Contested the election of a county councillor for the Bicester Town division
 ### 4th May 2017
 
-<img src="images/bicestertownelection2017.png">
+![Bicester Town 2017 Result](/images/bicestertownelection2017.png)
 
 <br>
 <br>
