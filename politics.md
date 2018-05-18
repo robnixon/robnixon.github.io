@@ -44,4 +44,11 @@ The current version of the website I manage for North Oxfordshire Green Party ca
 <hr>
 
 ## Became Chair of North Oxfordshire Green Party
-### February 2018 - Present 
+### February 2018 - Present
+
+<hr>
+
+## Contested the election of a district councillor for the Bicester East ward
+### 3rd May 2018
+
+![Bicester East 2018 Result](/images/bicestereastelection2018.png) 
