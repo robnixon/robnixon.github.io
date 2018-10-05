@@ -7,4 +7,6 @@ I'm a Computer Science student from Bicester, UK. I enjoy building software in m
 
 On my [blog](https://robertjnixon.blogspot.co.uk/) you'll find a variety of articles I've written including advice for CS students, opinion pieces and anything technology related that I think others might find interesting.
 
-I also enjoy solving programming challenges on sites like [HackerRank](https://www.hackerrank.com). You can view my HackerRank profile [here](https://www.hackerrank.com/robertnixon). 
+I also enjoy solving programming challenges on sites like [HackerRank](https://www.hackerrank.com). You can view my HackerRank profile [here](https://www.hackerrank.com/robertnixon).
+
+Need to schedule a meeting with me? Visit my [MeetMe page](https://doodle.com/robertnixon).
