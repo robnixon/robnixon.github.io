@@ -4,7 +4,7 @@
 
 Hi, my name is Robert Nixon and I:
 - Study Computer Science
-- Work in computer sofware
+- Work in computer software
 - Chair the Green Party of England and Wales in North Oxfordshire
 
 and occasionally:
