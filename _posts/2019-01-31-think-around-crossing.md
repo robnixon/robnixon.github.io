@@ -23,7 +23,7 @@ This could be done at a much lower cost than £44m. Providing a footbridge over 
 ![Think around crossing letter BA](/images/letters/thinkAroundCrossing.jpg)
 
 More information:
-- Email: robert@robertnixon.net
+- Email: [robert@robertnixon.net](mailto:robert@robertnixon.net)
 - Telephone: 07557 023792
 - Website: [nogp.org.uk](https://nogp.org.uk)
 - [Twitter - @_robertjnixon](https://twitter.com/_robertjnixon)
