@@ -4,6 +4,8 @@ title: Blog
 permalink: /blog/
 ---
 
+# Blog Posts
+
 {% for post in site.posts %}
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
@@ -13,5 +15,7 @@ permalink: /blog/
     {% assign date = currentdate %}
   {% endif %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% if forloop.last %}</ul>{% endif %}
+  {% if forloop.last %}
+    </ul>
+  {% endif %}
 {% endfor %}
