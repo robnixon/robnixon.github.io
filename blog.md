@@ -4,13 +4,13 @@ title: Blog
 permalink: /blog/
 ---
 
-# Blog Posts
+# Blog
 
 {% for post in site.posts %}
-  {% assign currentdate = post.date | date: "%Y" %}
+  {% assign currentdate = post.date | date: "%B %Y" %}
   {% if currentdate != date %}
     {% unless forloop.first %}</ul>{% endunless %}
-    <h1 id='y{{post.date | date: "%B %Y"}}'>{{ currentdate }}</h1>
+    <h1 id='y{{ post.date | date: "%B %Y" }}'>{{ currentdate }}</h1>
     <ul>
     {% assign date = currentdate %}
   {% endif %}
