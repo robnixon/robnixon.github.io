@@ -7,15 +7,14 @@ permalink: /blog/
 # Blog
 
 {% for post in site.posts %}
-  {% assign currentdate = post.date | date: "%B %Y" %}
-  {% if currentdate != date %}
-    {% unless forloop.first %}</ul>{% endunless %}
-    <h1 id='y{{ post.date | date: "%B %Y" }}'>{{ currentdate }}</h1>
+  {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
+  {% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
+  {% if month != nmonth %}
+    {% if forloop.index != 1 %}
+      </ul>
+    {% endif %}
+    <h5>{{ post.date | date: '%B %Y' }}</h5>
     <ul>
-    {% assign date = currentdate %}
   {% endif %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% if forloop.last %}
-    </ul>
-  {% endif %}
 {% endfor %}
