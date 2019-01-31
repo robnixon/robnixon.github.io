@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Think around crossing
+categories: [January 2019]
 ---
 
 ![Robert at the London Road level crossing](/images/robertAtLondonRoadDec18.jpg)
