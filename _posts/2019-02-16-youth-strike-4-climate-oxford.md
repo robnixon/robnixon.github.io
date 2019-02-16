@@ -42,5 +42,5 @@ I know that you’re all going to keep fighting, keep pushing, keep striking unt
 
 Thank you so much!
 
-![A group of young Green Party members support the youth strike](/images/younggreensatyouthstrike)
+![A group of young Green Party members support the youth strike](/images/younggreensatyouthstrike.jpg)
 
