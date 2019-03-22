@@ -8,7 +8,7 @@ catagories: [March 2019]
 
 Photo: [buckinghamtoday.co.uk](https://www.buckinghamtoday.co.uk/news/environment/buckingham-grammar-school-join-global-student-climate-change-protest-1-8854997)
 
-It was a great privilege to speak in support of the Youth Strike 4 Climate in Oxford yesterday. It's so awesome to see so many young people standing up for their future in the face of a Conservative government that is not only trashing the planet but belittling the children's action as well.
+It was a privilege to be given the opportunity to speak at the School Strike 4 Climate organised by the students at the Royal Latin School last Friday.
 
 My full speech (apologies for lack of video and pictures):
 
