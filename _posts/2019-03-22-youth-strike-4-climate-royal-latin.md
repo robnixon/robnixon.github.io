@@ -10,7 +10,7 @@ Photo: [buckinghamtoday.co.uk](https://www.buckinghamtoday.co.uk/news/environmen
 
 It was a privilege to be given the opportunity to speak at the School Strike 4 Climate organised by the students at the Royal Latin School last Friday.
 
-My full speech (apologies for lack of video and pictures):
+My full speech:
 
 Thank you so much for welcoming me to speak today. My name is Robert, I’m a Green Party activist from Oxfordshire and a local election candidate this year. 
 
