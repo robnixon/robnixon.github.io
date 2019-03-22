@@ -4,11 +4,11 @@ layout: post
 catagories: [March 2019]
 ---
 
-![Robert speaking at the strike](/images/royallatinyouthstrike.jpg)
+![Students at the school stike](/images/robertspeakingatroyallatinstrike.png)
+
+Photo: [buckinghamtoday.co.uk](https://www.buckinghamtoday.co.uk/news/environment/buckingham-grammar-school-join-global-student-climate-change-protest-1-8854997)
 
 It was a great privilege to speak in support of the Youth Strike 4 Climate in Oxford yesterday. It's so awesome to see so many young people standing up for their future in the face of a Conservative government that is not only trashing the planet but belittling the children's action as well.
-
-
 
 My full speech (apologies for lack of video and pictures):
 
