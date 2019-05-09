@@ -22,17 +22,6 @@ The current version of the website I manage for North Oxfordshire Green Party ca
 
 <hr>
 
-## Contested the election of a county councillor for the Bicester Town division
-### 4th May 2017
-
-![Bicester Town 2017 Result](/images/bicestertownelection2017.png)
-
-<br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLJSZPV8nvInM0TSCFq9gQzoZ4Vcpra9wr" frameborder="0" allowfullscreen></iframe>
-
-<hr>
-
 ## Elected Co-chair of North Oxfordshire Green Party
 ### November 2017 - February 2018
 
@@ -48,14 +37,7 @@ The current version of the website I manage for North Oxfordshire Green Party ca
 
 <hr>
 
-## Contested the election of a district councillor for the Bicester East ward
-### 3rd May 2018
+## Elected to Bicester Town Council representing the East ward
+### May 2019 - Present
 
-![Bicester East 2018 Result](/images/bicestereastelection2018.png)
-
-## Contested by-elections in Bicester
-### 21st June 2018
-
-![Bicester Town Central Result 2018](/images/central2018.png)
-
-![Bicester West 2018 Result](/images/west2018.png) 
+![Election result for Bicester East Town Council ward 2019](/images/eastBTC2019.png)
