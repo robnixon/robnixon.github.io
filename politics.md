@@ -11,11 +11,11 @@ permalink: /politics/
 
 <hr>
 
-## Became a web developer for North Oxfordshire Green Party
+<!--## Became a web developer for North Oxfordshire Green Party
 ### August 2015 - Present
-The current version of the website I manage for North Oxfordshire Green Party can be found [here](http://nogp.org.uk).
+[here](http://nogp.org.uk).
 
-<hr>
+<hr>-->
 
 ## Elected Vice Chair of North Oxordshire Green Party
 ### November 2015 - November 2017
@@ -32,8 +32,13 @@ The current version of the website I manage for North Oxfordshire Green Party ca
 
 <hr>
 
-## Became Chair of North Oxfordshire Green Party
+## Co-opted Chair of North Oxfordshire Green Party
 ### February 2018 - Present
+
+<hr>
+
+## Elections officer for South East Young Greens
+### March 2019 - Present
 
 <hr>
 
