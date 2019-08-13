@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vote Robert Nixon \#1 - Young Green Party Non-portfolio officer 
+title: Vote Robert Nixon - Young Green Party Non-portfolio officer 
 categories: [August 2019]
 ---
 
