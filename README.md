@@ -6,8 +6,8 @@ Hi, my name is Robert Nixon and I'm a:
 - Green Party councillor for Bicester East on Bicester Town Council
 - Computer Science student
 - Software Engineer
-- Activist and officer at North Oxfordshire Green Party
-- Activist and officer with South East Young Greens
+- Activist and officer with Oxfordshire Green Party
+- Co-Convenor of South East Young Greens
 
 <!--and occasionally:
 - Write a [blog](/blog/).

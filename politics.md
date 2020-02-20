@@ -9,13 +9,13 @@ permalink: /politics/
 ## Become a member of The Green Party of England and Wales
 ### April 2015 - Present
 
-<hr>
+<!--<hr>
 
 <!--## Became a web developer for North Oxfordshire Green Party
 ### August 2015 - Present
 [here](http://nogp.org.uk).
 
-<hr>-->
+<hr>
 
 ## Elected Vice Chair of North Oxordshire Green Party
 ### November 2015 - November 2017
@@ -40,7 +40,7 @@ permalink: /politics/
 ## Elections officer for South East Young Greens
 ### March 2019 - Present
 
-<hr>
+<hr>-->
 
 ## Elected to Bicester Town Council representing the East ward
 ### May 2019 - Present
