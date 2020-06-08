@@ -3,10 +3,9 @@
 ![Robert Nixon](/images/robertprofile.jpg)
 
 Hi, my name is Robert Nixon and I'm a:
+- Associate Teacher of Computer Science and Mathematics
 - Green Party councillor for Bicester East on Bicester Town Council
-- Computer Science student
-- Software Engineer
-- Activist and officer with Oxfordshire Green Party
+- Party Manager at Oxfordshire Green Party
 - Co-Convenor of South East Young Greens
 
 <!--and occasionally:
