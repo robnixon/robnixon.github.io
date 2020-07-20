@@ -2,6 +2,8 @@
 
 ![Robert Nixon](/images/robertprofile.jpg)
 
+### I'm currently running in the [Young Green Party](https://younggreens.org.uk) internal elections - if you're a Young Greens member please [take a look at what I'm standing for and consider supporting my campaign!](/vote/) And if you're not a member [you should join!](https://join.greenparty.org.uk)
+
 Hi, my name is Robert Nixon and I'm a:
 - Associate Teacher of Computer Science and Mathematics
 - Green Party councillor for Bicester East on Bicester Town Council
